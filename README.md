@@ -9,7 +9,7 @@ estimated treatment time:30minutes,20minutes,40minutes,15minutes
 urgency level(1-5,5 being most urgent):3,5,2,4
 the values of arrival time, burst time, priority are with respect to each of the process in the order as followed.
 Process scheduling algorithm:
-given the following processes with their arrival times and burst times, 
+given the following processes with their arrival times and burst times,
 schedule the processes using FCFS, SJf, PS, and RR( with a time quantum of 4 units) algorithms.
 after scheduling, determine the waiting time and turnaround time for each process in each scheduling algorithm.
 finally, analyze which algorithm is the most suitable based on the average waiting time and average turnaround time.
